@@ -18,11 +18,11 @@ export default function About() {
       id="about"
     >
       <SectionHeading>About me</SectionHeading>
-      <p className="mb-3">
-        Proficient in crafting robust, scalable solutions. I am dedicated to contribute my skillset to foster a
-        collaborative and dynamic work environment, consistently striving for the advancement of team goals, I am
-        committed to continuous improvement, investing time and effort into refining my skills to deliver impactful
-        results.
+      <p className="mb-3 text-left">
+        Software Engineer with 1 year of hands-on experience in building  real-time, scalable web applications.  
+        Skilled in designing RESTful APIs, implementing microservices with clean architecture, 
+        and managing databases efficiently.  
+        Also, experienced in crafting responsive UIs and delivering impactful results. 
       </p>
     </motion.section>
   );

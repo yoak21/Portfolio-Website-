@@ -52,10 +52,10 @@ export const experiencesData = [
     date: "2024 - 2024",
   },
   {
-    title: "Software Developer",
+    title: "Software Engineer",
     location: "LTIMindtree, Navi Mumbai",
     description:
-      "Currently Working as an SAP ABAP developer",
+      "Currently Working as an Java developer",
     icon: React.createElement(CgWorkAlt)/*(FaReact)*/,
     date: "2024(dec) - Present",
   }, 

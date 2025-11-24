@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src= "/Profile Pic.jpg"
+              src="/Profiler.jpg"
               alt="Loading"
               width="192"
               height="192"
@@ -40,7 +40,7 @@ export default function Intro() {
               className="h-64 w-64 rounded-full object-cover border-[0.35rem] border-white shadow-xl"
             />
           </motion.div>
-          <motion.span
+          {/* <motion.span
             className="absolute bottom-0 right-0 text-4xl"
             initial={{ opacity: 0, scale: 0 }}
             animate={{ opacity: 1, scale: 1 }}
@@ -52,26 +52,26 @@ export default function Intro() {
             }}
           >
             👋
-          </motion.span>
+          </motion.span>  */}
         </div>
       </div>
 
       <motion.h1
-        className="mb-10 mt-4 px-4 text-2xl font-medium !leading-[1.5] sm:text-4xl"
+        className="mb-10 mt-4 px-4 text-2xl font-medium !leading-[1.5] sm:text-4xl text-left"
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="text-3xl font-light">Hello, I'm <span className="font-semibold">Anurag Ranjan {" "}</span></span>
-        <span className="text-3xl font-light">A{" "} Full-stack developer passionate about developing applications
-          that are really worthy and solve a real-world Problem.{" "} With a production level {" "}
+        <span className="text-2xl font-semibold">
+          Hello, I'm Anurag Ranjan
         </span>
-        <span className="text-3xl font-light"> experience of developing Full-stack applications, {" "} I enjoy myself
-          by contributing towards application development in any possible manner.
+        <span className="block text-xl font-light ">
+          A Full-Stack Developer who enjoys building applications that solve real problems and make life easier.{" "} 
+          I’ve worked on production-level projects and love exploring new ways to create useful, scalable solutions.
         </span>
       </motion.h1>
 
       <motion.div
-        className="flex flex-col sm:flex-row items-center justify-center gap-2 px-4 text-lg font-medium"
+        className="flex flex-col sm:flex-row items-center justify-center gap-8 px-4 text-lg font-medium"
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{
