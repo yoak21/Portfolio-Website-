@@ -53,9 +53,9 @@ export const experiencesData = [
   },
   {
     title: "Software Engineer",
-    location: "LTIMindtree, Navi Mumbai",
+    location: "LTIMindtree, Delhi",
     description:
-      "Currently Working as an Java developer",
+      "Building and enhancing scalable backend services with Spring Boot, focusing on REST APIs, performance optimization",
     icon: React.createElement(CgWorkAlt)/*(FaReact)*/,
     date: "2024(dec) - Present",
   }, 
