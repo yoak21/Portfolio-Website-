@@ -19,10 +19,9 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3 text-left">
-        Software Engineer with 1 year of hands-on experience in building  real-time, scalable web applications.  
-        Skilled in designing RESTful APIs, implementing microservices with clean architecture, 
-        and managing databases efficiently.  
-        Also, experienced in crafting responsive UIs and delivering impactful results. 
+        Software Engineer with 1.5 years of experience building REST APIs and backend services in Java and Node.js,
+        across enterprise and startup environments. Hands-on with Spring Boot, Spring Security, JPA/Hibernate, and
+        PostgreSQL, with exposure to real-time systems and Docker-based deployments
       </p>
     </motion.section>
   );

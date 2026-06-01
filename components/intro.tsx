@@ -65,7 +65,7 @@ export default function Intro() {
           Hello, I'm Anurag Ranjan
         </span>
         <span className="block text-xl font-light ">
-          A Full-Stack Developer who enjoys building applications that solve real problems and make life easier.{" "} 
+          A Backend Developer who enjoys building applications that solve real problems and make life easier.{" "} 
           I’ve worked on production-level projects and love exploring new ways to create useful, scalable solutions.
         </span>
       </motion.h1>

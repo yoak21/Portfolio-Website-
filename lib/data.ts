@@ -47,7 +47,7 @@ export const experiencesData = [
     title: "Software Development Intern",
     location: "Flocci Technologies Private Ltd, Bangalore",
     description:
-      "I used to build full-stack applications from scratch, I also upskilled myslef to deploying applications on cloud server",
+      "Contributed to a real-time polling platform with live voting and analytics dashboards. Developed backend APIs using Node.js and Express.js",
     icon: React.createElement(CgWorkAlt),
     date: "2024 - 2024",
   },
@@ -55,7 +55,7 @@ export const experiencesData = [
     title: "Software Engineer",
     location: "LTIMindtree, Delhi",
     description:
-      "Building and enhancing scalable backend services with Spring Boot, focusing on REST APIs, performance optimization",
+      "contributing to Spring Boot backend services and REST API development. Worked on authentication, API reliability, database performance optimization",
     icon: React.createElement(CgWorkAlt)/*(FaReact)*/,
     date: "2024(dec) - Present",
   }, 
@@ -86,16 +86,15 @@ export const projectsData = [
 ] as const;
 
 export const skillsData = [
-  "HTML",
-  "CSS",
+  "Java",
+  "Spring Boot",
+  "JWT",
   "JavaScript",
   "React.js",
   "Node.js",
   "Next.js",
   "Redux",
   "Express.js",
-  "C++",
-  "Java",
   "MySQL",
   "PostgreSQL",
   "MongoDB",
