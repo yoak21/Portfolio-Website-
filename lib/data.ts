@@ -1,10 +1,6 @@
 import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
-import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
-import corpcommentImg from "@/public/corpcomment.png";
-import rmtdevImg from "@/public/rmtdev.png";
-import wordanalyticsImg from "@/public/wordanalytics.png";
 import PollsImg from "@/public/Polls.png";
 
 export const links = [
@@ -49,7 +45,7 @@ export const experiencesData = [
     description:
       "Developed backend services for a real-time audience engagement platform using Spring Boot. Built REST APIs, implemented WebSocket-based live communication, secured APIs with JWT, and worked with MongoDB to support scalable real-time features ",
     icon: React.createElement(CgWorkAlt),
-    date: "2024(jan) - 2024(nov)",
+    date: "Jan 2024 - Nov 2024",
   },
   {
     title: "Software Engineer",
@@ -57,7 +53,7 @@ export const experiencesData = [
     description:
       "Developed and maintained Spring Boot backend services for a fintech loan origination platform. Built secure REST APIs, integrated Kafka for asynchronous event processing, optimized database performance, and collaborated with cross-functional teams to deliver production-ready features",
     icon: React.createElement(CgWorkAlt)/*(FaReact)*/,
-    date: "2024(dec) - Present",
+    date: "Dec 2024 - Present",
   }, 
 ] as const;
 
@@ -88,6 +84,8 @@ export const projectsData = [
 export const skillsData = [
   "Java",
   "Spring Boot",
+  "Spring Security",
+  "Spring JPA",
   "JWT",
   "JavaScript",
   "React.js",
@@ -98,5 +96,7 @@ export const skillsData = [
   "MySQL",
   "PostgreSQL",
   "MongoDB",
-  "Git"
+  "Git",
+  "Kafka",
+  "Redis"
 ] as const;

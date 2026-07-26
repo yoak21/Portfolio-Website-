@@ -19,9 +19,9 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3 text-left">
-        Software Engineer with 1.5 years of experience building REST APIs and backend services in Java and Node.js,
-        across enterprise and startup environments. Hands-on with Spring Boot, Spring Security, JPA/Hibernate, and
-        PostgreSQL, with exposure to real-time systems and Docker-based deployments
+        Backend Developer with 2.8 years of experience building scalable, secure backend systems for fintech and real-time
+        SaaS platforms. Skilled in Java, Spring Boot, REST APIs, Kafka-driven microservices, and WebSocket-based
+        real-time features, with hands-on experience in Spring Security, JWT, and performance optimization.
       </p>
     </motion.section>
   );
