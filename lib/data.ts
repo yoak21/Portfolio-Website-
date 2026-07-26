@@ -45,7 +45,7 @@ export const experiencesData = [
   },
   {
     title: "Associate Software Engineer",
-    location: "Flocci Technologies Private Ltd, Bangalore",
+    location: "Flocci Technologies Private Ltd",
     description:
       "Developed backend services for a real-time audience engagement platform using Spring Boot. Built REST APIs, implemented WebSocket-based live communication, secured APIs with JWT, and worked with MongoDB to support scalable real-time features ",
     icon: React.createElement(CgWorkAlt),
@@ -53,7 +53,7 @@ export const experiencesData = [
   },
   {
     title: "Software Engineer",
-    location: "LTIMindtree, Delhi",
+    location: "LTM, Noida",
     description:
       "Developed and maintained Spring Boot backend services for a fintech loan origination platform. Built secure REST APIs, integrated Kafka for asynchronous event processing, optimized database performance, and collaborated with cross-functional teams to deliver production-ready features",
     icon: React.createElement(CgWorkAlt)/*(FaReact)*/,
