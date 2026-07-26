@@ -44,18 +44,18 @@ export const experiencesData = [
     date: "2022 - 2024",
   },
   {
-    title: "Software Development Intern",
+    title: "Associate Software Engineer",
     location: "Flocci Technologies Private Ltd, Bangalore",
     description:
-      "Contributed to a real-time polling platform with live voting and analytics dashboards. Developed backend APIs using Node.js and Express.js",
+      "Developed backend services for a real-time audience engagement platform using Spring Boot. Built REST APIs, implemented WebSocket-based live communication, secured APIs with JWT, and worked with MongoDB to support scalable real-time features ",
     icon: React.createElement(CgWorkAlt),
-    date: "2024 - 2024",
+    date: "2024(jan) - 2024(nov)",
   },
   {
     title: "Software Engineer",
     location: "LTIMindtree, Delhi",
     description:
-      "contributing to Spring Boot backend services and REST API development. Worked on authentication, API reliability, database performance optimization",
+      "Developed and maintained Spring Boot backend services for a fintech loan origination platform. Built secure REST APIs, integrated Kafka for asynchronous event processing, optimized database performance, and collaborated with cross-functional teams to deliver production-ready features",
     icon: React.createElement(CgWorkAlt)/*(FaReact)*/,
     date: "2024(dec) - Present",
   }, 
@@ -65,8 +65,8 @@ export const projectsData = [
   {
     title: "FLocci Polls",
     description:
-      "I worked as a full-stack developer on this startup project for 4 months. Users can create poll and surveys which can be shared across multiple platforms.",
-    tags: ["React.js", "Node.js", "MongoDB", "PSQL", "Express.js" , "Socket.io"],
+      "Developed a full-stack real-time polling platform using React, Spring Boot, WebSocket/STOMP, and MongoDB. Built responsive frontend interfaces, secure REST APIs, and real-time vote synchronization to deliver live polling and analytics",
+    tags: ["React.js", "SpringBoot", "Spring MVC", "WebSocket" ,  "MongoDB", "JWT" , "Docker"],
     imageUrl: PollsImg,
   },
   /*{
