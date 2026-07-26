@@ -41,9 +41,9 @@ export const experiencesData = [
   },
   {
     title: "Associate Software Engineer",
-    location: "Flocci Technologies Private Ltd",
+    location: "Flocci Technologies Private Ltd.",
     description:
-      "Developed backend services for a real-time audience engagement platform using Spring Boot. Built REST APIs, implemented WebSocket-based live communication, secured APIs with JWT, and worked with MongoDB to support scalable real-time features ",
+      "Developed backend services using Spring Boot \n Built REST APIs, implemented WebSocket-based live communication, secured APIs with JWT, and worked with MongoDB to support scalable real-time features ",
     icon: React.createElement(CgWorkAlt),
     date: "Jan 2024 - Nov 2024",
   },
@@ -51,7 +51,7 @@ export const experiencesData = [
     title: "Software Engineer",
     location: "LTM, Noida",
     description:
-      "Developed and maintained Spring Boot backend services for a fintech loan origination platform. Built secure REST APIs, integrated Kafka for asynchronous event processing, optimized database performance, and collaborated with cross-functional teams to deliver production-ready features",
+      "Developed and maintained Spring Boot backend services for a fintech loan origination platform \n Built secure REST APIs, integrated Kafka for asynchronous event processing and optimized database performance",
     icon: React.createElement(CgWorkAlt)/*(FaReact)*/,
     date: "Dec 2024 - Present",
   }, 
@@ -59,9 +59,9 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "FLocci Polls",
+    title: "FLocci Pulse",
     description:
-      "Developed a full-stack polling platform with real-time vote synchronization to deliver live polling and analytics",
+      "Developed a full-stack audience engagement platform with real-time vote synchronization to deliver live polling and analytics",
     tags: ["React.js", "SpringBoot", "Spring MVC", "WebSocket" ,  "MongoDB", "JWT" , "Docker"],
     imageUrl: PollsImg,
   },
