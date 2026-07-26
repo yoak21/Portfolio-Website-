@@ -65,7 +65,7 @@ export const projectsData = [
   {
     title: "FLocci Polls",
     description:
-      "Developed a full-stack real-time polling platform using React, Spring Boot, WebSocket/STOMP, and MongoDB. Built responsive frontend interfaces, secure REST APIs, and real-time vote synchronization to deliver live polling and analytics",
+      "Developed a full-stack polling platform with real-time vote synchronization to deliver live polling and analytics",
     tags: ["React.js", "SpringBoot", "Spring MVC", "WebSocket" ,  "MongoDB", "JWT" , "Docker"],
     imageUrl: PollsImg,
   },
